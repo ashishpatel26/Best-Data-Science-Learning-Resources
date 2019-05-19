@@ -6,4 +6,5 @@
 4. **[Perfect Guide to Know  to Become Data Scientist](https://github.com/ashishpatel26/Best-Data-Science-Learning-Resources/blob/master/Perfect%20Guide%20to%20Know%20%20to%20Become%20Data%20Scientist.md)**
 5. **[Awesome Machine learning](https://github.com/bulutyazilim/awesome-datascience)**
 6. **[Step by Step Guide for Github](https://github.com/ashishpatel26/Best-Data-Science-Learning-Resources/blob/master/A%20step-by-step%20guide%20to%20Git.pdf)**
+7. **[Amazing Deep learning Research paper Review](https://github.com/ashishpatel26/Best-Data-Science-Learning-Resources/blob/master/Amazing%20Deep%20learning%20Research%20paper%20Review.md)
 
